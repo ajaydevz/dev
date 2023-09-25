@@ -1,4 +1,7 @@
+![235887832-c765824d-cd01-49d5-896d-a3c5098ba9d3]([https://github.com/swalihmp/swalihmp/assets/51339828/dd51b21b-b214-4c4a-bb27-ef595d322c3a](https://e1.pxfuel.com/desktop-wallpaper/519/498/desktop-wallpaper-mario-pixel-nintendo-room-night-computer-video-game-nintendo-computer.jpg))
+## Hi, I am Ajay Dev k! 
 ### Hi there 👋
+
 
 <!--
 **ajaydevz/ajaydevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
