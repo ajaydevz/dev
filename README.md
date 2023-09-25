@@ -4,9 +4,9 @@
 </br>
 
  <div>
-  <a href="https://github.com/aswinbharath1">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinbharath1&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinbharath1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <a href="https://github.com/ajaydevz">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaydevz&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaydevz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
  ## Skills
