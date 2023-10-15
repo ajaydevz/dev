@@ -1,4 +1,4 @@
-![235887832-c765824d-cd01-49d5-896d-a3c5098ba9d3]<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 ## Hi, I am Ajay Dev!!
 <h3 align="center">A passionate Python Fullstack developer from Kerala,India</h3>
 </br>
