@@ -1,5 +1,6 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
-## Hi, I am Ajay Dev!!
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+Hey, Iam Ajaydev!!<img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" width="160" />
 <h3 align="center">A passionate Python Fullstack developer from Kerala,India</h3>
 </br>
 
@@ -45,7 +46,8 @@
  </br>
 </br>
 
-![snake animation](https://github/ajaydev/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<br><br>
 
   
  
